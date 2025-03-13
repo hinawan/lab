@@ -1,8 +1,8 @@
 export const config = {
-    host: '127.0.0.1',
+    host: 'localhost',
     port: 5432,
     user: 'postgres',
     password: 'postgres',
     database: 'postgres',
     connection_limit: 100
-   }
+}
